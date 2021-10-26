@@ -18,7 +18,7 @@ limitations under the License.
 
 -->
 
-# Data Type Abbreviation
+# dtypeChar
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
 
@@ -52,7 +52,7 @@ npm install @stdlib/ndarray-base-dtype-char
 var dtypeChar = require( '@stdlib/ndarray-base-dtype-char' );
 ```
 
-#### dtypeChar( dtype )
+#### dtypeChar( \[dtype] )
 
 Returns the single letter character abbreviation for an underlying [array data type][@stdlib/ndarray/dtypes].
 
@@ -69,6 +69,13 @@ If provided an unknown or unsupported data type, the function returns `null`.
 ```javascript
 var ch = dtypeChar( 'foobar' );
 // returns null
+```
+
+If not provided a [data type][@stdlib/ndarray/dtypes] string, the function returns an object mapping [data type][@stdlib/ndarray/dtypes] strings to single letter character abbreviations.
+
+```javascript
+var obj = dtypeChar();
+// returns {...}
 ```
 
 </section>
