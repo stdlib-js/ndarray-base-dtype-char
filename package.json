@@ -39,6 +39,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/ndarray-base-dtype-resolve-str": "^0.0.x",
     "@stdlib/ndarray-dtypes": "^0.0.x",
     "@stdlib/utils-library-manifest": "^0.0.x"
   },
