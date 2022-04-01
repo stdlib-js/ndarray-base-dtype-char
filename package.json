@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/ndarray-base-dtype-char",
+  "version": "0.0.0",
+  "description": "Return the single letter character abbreviation for an underlying array data type.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/ndarray-base-dtype-char.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "types",
+    "base",
+    "ndarray",
+    "data",
+    "type",
+    "dtype",
+    "abbreviation",
+    "char",
+    "ch",
+    "letter",
+    "ltr",
+    "multidimensional",
+    "array",
+    "utilities",
+    "utility",
+    "utils",
+    "util"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
