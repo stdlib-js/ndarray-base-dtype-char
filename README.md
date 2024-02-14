@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dtypeChar from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-char@deno/mod.js';
+import dtypeChar from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-char@v0.2.0-deno/mod.js';
 ```
 
 #### dtypeChar( \[dtype] )
@@ -102,7 +102,7 @@ var obj = dtypeChar();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import dtypeChar from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-char@deno/mod.js';
+import dtypeChar from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-char@v0.2.0-deno/mod.js';
 
 var dtypes;
 var ch;
