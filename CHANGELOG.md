@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-28)
+
+<section class="features">
+
+### Features
+
+-   [`6540f29`](https://github.com/stdlib-js/stdlib/commit/6540f29cc83ec1fb172986f87e14730b5973e94f) - add support for 16-bit data types
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`6540f29`](https://github.com/stdlib-js/stdlib/commit/6540f29cc83ec1fb172986f87e14730b5973e94f) - **feat:** add support for 16-bit data types _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
 </details>
