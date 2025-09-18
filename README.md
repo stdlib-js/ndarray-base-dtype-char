@@ -120,6 +120,7 @@ var obj = dtypeChar();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
+var logEachMap = require( '@stdlib/console-log-each-map' );
 var dtypeChar = require( '@stdlib/ndarray-base-dtype-char' );
 
 var dtypes = [
@@ -137,10 +138,7 @@ var dtypes = [
     'foobar'
 ];
 
-var i;
-for ( i = 0; i < dtypes.length; i++ ) {
-    console.log( '%s => %s', dtypes[ i ], dtypeChar( dtypes[ i ] ) );
-}
+logEachMap( '%s => %s', dtypes, dtypeChar );
 ```
 
 </section>

@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-28)
+## Unreleased (2025-09-18)
 
 <section class="features">
 
@@ -22,6 +22,9 @@
 
 <details>
 
+-   [`e5bf4a1`](https://github.com/stdlib-js/stdlib/commit/e5bf4a1e92052b705774cbb08bc74295cea3c5fc) - **docs:** update example _(by Athan Reines)_
+-   [`8b85764`](https://github.com/stdlib-js/stdlib/commit/8b8576416a1925647193338763722d58d8c8752e) - **chore:** clean-up _(by Athan Reines)_
+-   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
 -   [`6540f29`](https://github.com/stdlib-js/stdlib/commit/6540f29cc83ec1fb172986f87e14730b5973e94f) - **feat:** add support for 16-bit data types _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
@@ -35,9 +38,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
