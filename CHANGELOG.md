@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-22)
+## Unreleased (2025-12-28)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9333f71`](https://github.com/stdlib-js/stdlib/commit/9333f717337007d160cb66e57e7a97d4da2ff0c0) - **test:** add tests for DataType instances _(by Athan Reines)_
 -   [`e5bf4a1`](https://github.com/stdlib-js/stdlib/commit/e5bf4a1e92052b705774cbb08bc74295cea3c5fc) - **docs:** update example _(by Athan Reines)_
 -   [`8b85764`](https://github.com/stdlib-js/stdlib/commit/8b8576416a1925647193338763722d58d8c8752e) - **chore:** clean-up _(by Athan Reines)_
 -   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
