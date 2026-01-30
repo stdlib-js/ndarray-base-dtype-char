@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-dtype-char",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Return the single letter character abbreviation for an underlying array data type.",
   "license": "Apache-2.0",
   "author": {
@@ -41,7 +41,7 @@
   "dependencies": {
     "@stdlib/ndarray-base-dtype-resolve-str": "^0.2.2",
     "@stdlib/ndarray-dtypes": "^0.3.0",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
@@ -88,7 +88,6 @@
     "utils",
     "util"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
