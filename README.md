@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dtypeChar from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-char@esm/index.mjs';
+import dtypeChar from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-char@v0.3.0-esm/index.mjs';
 ```
 
 #### dtypeChar( \[dtype] )
@@ -108,7 +108,7 @@ var obj = dtypeChar();
 <script type="module">
 
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import dtypeChar from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-char@esm/index.mjs';
+import dtypeChar from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-char@v0.3.0-esm/index.mjs';
 
 var dtypes = [
     'float64',
