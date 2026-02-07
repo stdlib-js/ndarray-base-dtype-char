@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-dtype-char",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Return the single letter character abbreviation for an underlying array data type.",
   "license": "Apache-2.0",
   "author": {
@@ -39,14 +39,14 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/ndarray-base-dtype-resolve-str": "^0.2.2",
-    "@stdlib/ndarray-dtypes": "^0.3.0",
+    "@stdlib/ndarray-base-dtype-resolve-str": "^0.3.0",
+    "@stdlib/ndarray-dtypes": "^0.4.0",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
-    "@stdlib/dstructs-struct": "github:stdlib-js/dstructs-struct#main",
-    "@stdlib/ndarray-dtype-ctor": "github:stdlib-js/ndarray-dtype-ctor#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
+    "@stdlib/dstructs-struct": "^0.1.0",
+    "@stdlib/ndarray-dtype-ctor": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
